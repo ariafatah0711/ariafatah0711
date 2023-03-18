@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
+[![MasterHead](https://i.imgur.com/xbmSBk1.png)](https://rishavchanda.io)
 <h1 align="center">Halo 👋, saya ariafatah0711</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large">
