@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, saya ariafatah0711</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
 
-[![MasterHead](https://i.imgur.com/xbmSBk1.png)](https://rishavchanda.io)
+[![MasterHead](https://i.imgur.com/xbmSBk1.png)](https://github.com/ariafatah0711/)
 
 <p align="center">
   <a href="https://github.com/ariafatah0711/"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
