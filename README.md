@@ -1,6 +1,11 @@
 [![MasterHead](https://i.imgur.com/xbmSBk1.png)](https://rishavchanda.io)
+
 <h1 align="center">Halo 👋, saya ariafatah0711</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
+<p align="center">
+  <a href="https://github.com/ariafatah0711/"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini.;Aku+wibu+dan+suka+nonton+Anime.;Butuh+temen+Yang+Sehobi+alias+suka+ngoding." alt="Text Gagal ditampilkan!"></a>
+</p>
+
 <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariafatah0711&label=Profile%20views&color=0e75b6&style=flat" alt="ariafatah0711" /> </p>
