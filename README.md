@@ -13,7 +13,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{ariafatah0711}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue">
-------
   
 <details align="center" close>
 <summary><b align="center">My Waifu:</b></summary>
