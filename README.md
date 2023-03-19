@@ -14,30 +14,8 @@
 <img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 <p align="center"><img src="https://profile-counter.glitch.me/{ariafatah}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue">
-  
-<details align="center" close>
-<summary><b align="center">My Waifu:</b></summary>
-  <img alt="anime 01" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCG4z2bcEuXb5PGGSV06Omls4bQWsX-EBVDHVtcv7jYj3VHmRqIgk-uTPLIsET1a7bhM&usqp=CAU"><br /><br />
-  <img alt="anime 02" width="1000" src=""><br /><br />
-  <img alt="anime 03" width="1000" src=""><br /><br />
-</details>
-
-<details align="center" close>
-<summary><b align="center">My Favorite anime:</b></summary>
-  <img alt="anime 01" width="1000" src="https://i.pinimg.com/236x/1e/8a/39/1e8a39f20c5abf6093eccb42213e3f58.jpg"><br /><br />
-  <img alt="anime 02" width="1000" src="https://i.pinimg.com/236x/59/ad/5b/59ad5b32430630f6cd8e629f23e461b4.jpg"><br /><br />
-  <img alt="anime 03" width="1000" src="https://i.pinimg.com/474x/bd/fb/b2/bdfbb26a8e8fc7c6699c7e674e877855.jpg"><br /><br />
-</details>
-
-<details align="center" close>
-<summary><b align="center">Anime Random Gif:</b></summary>
-  <img alt="anime 01" width="1000" src="https://i.pinimg.com/originals/6a/23/30/6a2330e2ed77ec9df2075b222e5aa87f.gif"><br /><br />
-  <img alt="anime 02" width="1000" src="https://i.pinimg.com/originals/c3/20/f2/c320f20000bd3c44693d21976eb0c211.gif"><br /><br />
-  <img alt="anime 03" width="1000" src="https://i.pinimg.com/originals/f0/a6/03/f0a603351bc38e73422916ea857d0ba6.gif"><br /><br />
-</details>
-<hr />
-</p>
+<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue"></p>
+<h1></h1>
 
 <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large">
   
@@ -75,8 +53,10 @@
 <h1 align="center">Statistik🌟</h1>
 
 ![Metrics](https://metrics.lecoq.io/ariafatah0711?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-<img clear="left" width="1000" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" />
-&nbsp;<img clear="left" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" />
+<br />
+<img float="center" width="999" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" />
+<br />
+&nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" />
 
 <hr />
 <h2 align="left">Random quote or fun fact:</h2>
@@ -99,7 +79,20 @@
 <br>
 <a href="https://t.me/Aria_Fatah"><img alt="Cute Count" src="https://count.getloli.com/get/@ariafatah?theme=rule34" /></a>
 </details>
+  
+## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 
+<details close>
+<summary><b>Anime List</b></summary>
+<!-- anilist_start-->
+ • <a href="https://anilist.co/anime/19">Monster<a><br>
+ • <a href="https://anilist.co/anime/21355">Re:Zero Kara Hajimeru isekai<a><br>
+ • <a href="https://anilist.co/anime/127720">Moshoku Tensei: isekai ittara Honki Dasu<a><br>
+ • <a href="https://anilist.co/anime/99468">Karakai Jouzu no Takagisan<a><br>
+ • <a href="https://anilist.co/anime/97940">Black Clover<a><br>
+<!-- anilist_end-->
+</details>
+  
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA)](https://git.io/typing-svg)
 <hr />
   
@@ -121,7 +114,10 @@
 ------
   
 <a href="https://saweria.co/ariafatah0711"><img src="https://w7.pngwing.com/pngs/207/1009/png-transparent-donation-box-anime-saisen-otaku-it-otaku-television-mammal-brown.png" alt="donate banh" height="300" width="300"></a>
-------
+
+## **Date**
+ - Selasa, 21 Februari 2023 19:41:31 
+------------
 
 <!--
 **ariafatah0711/ariafatah0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
