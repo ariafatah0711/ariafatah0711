@@ -49,7 +49,7 @@
 
 - 🌱 I’m currently learning **Python, html, css, Javascript, bash, and php**
 
-- 👨‍💻 device currently in use⚡ **linux mint chinemon**
+- 👨‍💻 device currently in use **linux mint chinemon**
   
 - 📫 How to reach me **ariafatah999@hotmail.com**
 
@@ -68,16 +68,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
 ![Metrics](https://metrics.lecoq.io/ariafatah0711?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+<!--
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" /> -->
+<img width="490" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" />
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" />
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" /></p>
 <hr />
 
 <!-- <p><img align="left" width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariafatah0711&show_icons=true&locale=en&layout=compact" alt="ariafatah0711" /> -->
-
-
-
-
 
 # **Contact Me🔥☕**
 <p align="left">
