@@ -1,7 +1,9 @@
 <h1 align="center">Halo 👋, saya ariafatah0711</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
 
-[![MasterHead](https://i.imgur.com/xbmSBk1.png)](https://github.com/ariafatah0711/)
+<!-- [![MasterHead](https://i.imgur.com/xbmSBk1.png)](https://github.com/ariafatah0711/) -->
+
+![TahaluIndo's card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2020%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">
   <a href="https://github.com/ariafatah0711/"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
@@ -66,12 +68,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariafatah0711&show_icons=true&locale=en&layout=compact" alt="ariafatah0711" />
-
-&nbsp;<img align="right" width="470" height="270" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" />
-
-<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" /></p>
+![Metrics](https://metrics.lecoq.io/ariafatah0711?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" /></p>
 <hr />
+
+<!-- <p><img align="left" width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariafatah0711&show_icons=true&locale=en&layout=compact" alt="ariafatah0711" /> -->
+
+
+
 
 
 # **Contact Me🔥☕**
