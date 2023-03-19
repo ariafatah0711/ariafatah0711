@@ -10,9 +10,9 @@
 </p><hr />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ariafatah0711&label=Profile%20views&color=0e75b6&style=flat" alt="ariafatah0711" />
+<img src="https://komarev.com/ghpvc/?username=ariafatah&label=Profile%20views&color=0e75b6&style=flat" alt="ariafatah" />
 <img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
-<p align="center"><img src="https://profile-counter.glitch.me/{ariafatah0711}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ariafatah}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue">
   
@@ -97,7 +97,7 @@
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
-<a href="https://t.me/Aria_Fatah"><img alt="Cute Count" src="https://count.getloli.com/get/@aria?theme=rule34" /></a>
+<a href="https://t.me/Aria_Fatah"><img alt="Cute Count" src="https://count.getloli.com/get/@ariafatah?theme=rule34" /></a>
 </details>
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA)](https://git.io/typing-svg)
