@@ -10,9 +10,9 @@
 </p><hr />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aria1&label=Profile%20views&color=0e75b6&style=flat" alt="aria1" />
+<img src="https://komarev.com/ghpvc/?username=aria2&label=Profile%20views&color=0e75b6&style=flat" alt="aria1" />
 <img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
-<p align="center"><a href="https://github.com/ariafatah0711"><img src="https://profile-counter.glitch.me/{aria1}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
+<p align="center"><a href="https://github.com/ariafatah0711"><img src="https://profile-counter.glitch.me/{aria2}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue"></p>
 <h1></h1>
@@ -77,7 +77,7 @@
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
-<a href="https://t.me/Aria_Fatah"><img alt="Cute Count" src="https://count.getloli.com/get/@aria1?theme=rule34" /></a>
+<a href="https://t.me/Aria_Fatah"><img alt="Cute Count" src="https://count.getloli.com/get/@aria2?theme=rule34" /></a>
 </details>
   
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
