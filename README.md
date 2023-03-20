@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 <p align="center"><a href="https://github.com/ariafatah0711"><img src="https://profile-counter.glitch.me/{aria10}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue"></p>
+<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-print(hello%20world)-blue"></p>
 <h1></h1>
 
 <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large">
