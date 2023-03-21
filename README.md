@@ -19,6 +19,7 @@
 <p align="center"> <a href="https://ariafatah0711.github.io/linktree/">
   <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" ></a>
 <p align="center"> <a href="#">
+  <a href="#bottom">
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-print(hello%20world)-blue"></a></p>
 <h1></h1>
 
@@ -108,7 +109,7 @@
 
 <!-- footer -->
 # **Contact Me🔥☕**
-<p align="left">
+<p id="bottom" align="left">
 <a href="https://www.github.com/ariafatah0711"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
 <a href="https://fb.com/aria.anom.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/ariafatahanom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instragam" height="30" width="40" /></a>
