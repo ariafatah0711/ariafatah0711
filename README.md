@@ -5,10 +5,11 @@
 [![ariafatah0711 card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2020%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](https://ariafatah0711.github.io/linktree/)
 
 <p align="center">
-<a href="https://github.com/ariafatah0711/"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
+<a href="https://github.com/ariafatah0711/linktree">
+  <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
 </p><hr />
 
-<!--profil labe -->
+<!--profil label -->
 <p align="center"> <a href="#">
 <img src="https://komarev.com/ghpvc/?username=aria10&label=Profile%20views&color=0e75b6&style=flat" alt="view-count" /> </a>
 <a href="#">
@@ -21,7 +22,9 @@
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-print(hello%20world)-blue"></a></p>
 <h1></h1>
 
-<img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large">
+<!-- about me -->
+<a href="https://ariafatah0711.github.io/linktree/">
+  <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large"></a>
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **ARIA FATAH ANOM**
 
@@ -36,7 +39,8 @@
 - 📫 How to reach me **ariafatah999@hotmail.com**
 
 - 🔭 I’m currently working on [**html_aria**](https://ariafatah0711.github.io/html_aria/)
-  
+
+<!-- media sosial and tool -->
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,6 +58,7 @@
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
 <hr />
 
+<!-- statistik -->
 <h1 align="center">Statistik🌟</h1>
 
 ![Metrics](https://metrics.lecoq.io/ariafatah0711?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
@@ -62,6 +67,7 @@
 <br />
 &nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" />
 
+<!-- decoration -->
 <hr />
 <h2 align="left">Random quote or fun fact:</h2>
 <p>
@@ -81,7 +87,7 @@
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
-<a href="https://t.me/Aria_Fatah"><img alt="Cute Count" src="https://count.getloli.com/get/@aria10?theme=rule34" /></a>
+<a href="https://github.com/ariafatah0711/linktree"><img alt="Cute Count" src="https://count.getloli.com/get/@aria10?theme=rule34" /></a>
 </details>
   
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
@@ -99,9 +105,8 @@
   
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA)](https://git.io/typing-svg)
 <hr />
-  
-<!-- <p><img align="left" width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariafatah0711&show_icons=true&locale=en&layout=compact" alt="ariafatah0711" /> -->
 
+<!-- footer -->
 # **Contact Me🔥☕**
 <p align="left">
 <a href="https://www.github.com/ariafatah0711"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
@@ -122,18 +127,3 @@
 ## **Date**
  - Selasa, 21 Februari 2023 19:41:31 
 ------------
-
-<!--
-**ariafatah0711/ariafatah0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
