@@ -96,7 +96,7 @@
 <details close>
 <summary><b>Anime List</b></summary>
 <!-- anilist_start-->
- • <a href="https://anilist.co/anime/19">Monster<a><br>
+ • <a href="https://anilist.co/anime/9253/SteinsGate/">Steins Gate<a><br>
  • <a href="https://anilist.co/anime/21355">Re:Zero Kara Hajimeru isekai<a><br>
  • <a href="https://anilist.co/anime/127720">Moshoku Tensei: isekai ittara Honki Dasu<a><br>
  • <a href="https://anilist.co/anime/99468">Karakai Jouzu no Takagisan<a><br>
