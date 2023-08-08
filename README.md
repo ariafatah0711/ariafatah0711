@@ -98,9 +98,9 @@
 <!-- anilist_start-->
  • <a href="https://anilist.co/anime/9253/SteinsGate/">Steins Gate<a><br>
  • <a href="https://anilist.co/anime/1575/Code-Geass-Hangyaku-no-Lelouch">Code Geass<a><br>
- • <a href="https://anilist.co/anime/127720">Moshoku Tensei: isekai ittara Honki Dasu<a><br>
+ • <a href="https://anilist.co/anime/116589/86-Eighty-Six">Eighty Six<a><br>
  • <a href="https://anilist.co/anime/99468">Karakai Jouzu no Takagisan<a><br>
- • <a href="https://anilist.co/anime/97940">Black Clover<a><br>
+ • <a href="https://anilist.co/anime/146065/Mushoku-Tensei-II-Isekai-Ittara-Honki-Dasu">Mushoku Tensei<a><br>
 <!-- anilist_end-->
 </details>
   
