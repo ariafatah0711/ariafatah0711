@@ -33,11 +33,11 @@
 
 - ⚡ I like **Anime, Game, Music, and drawing**
 
-- 🌱 I’m currently learning **Python, html, css, Javascript, and bash**
+- 🌱 I’m currently learning **Python, html, css, Javascript**
 
 - 👨‍💻 device currently in use **linux mint chinemon**
   
-- 📫 How to reach me **ariafatah999@hotmail.com**
+- 📫 How to reach me **ariafatah999@gmail.com**
 
 - 🔭 I’m currently working on [**html_aria**](https://ariafatah0711.github.io/html_aria/)
 
