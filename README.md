@@ -2,10 +2,10 @@
 <h1 align="center">Halo 👋, saya ariafatah0711</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
 
-[![ariafatah0711 card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](https://ariafatah0711.github.io/linktree/)
+[![ariafatah0711 card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](#)
 
 <p align="center">
-<a href="https://github.com/ariafatah0711/linktree">
+<a href="#">
   <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
 </p><hr />
 
@@ -14,9 +14,9 @@
 <img src="https://komarev.com/ghpvc/?username=aria10&label=Profile%20views&color=0e75b6&style=flat" alt="view-count" /> </a>
 <a href="#">
   <img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers"  /> </a>
-<p align="center"> <a href="https://github.com/ariafatah0711">
+<p align="center"> <a href="#">
   <img src="https://profile-counter.glitch.me/{aria10}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
-<p align="center"> <a href="https://ariafatah0711.github.io/linktree/">
+<p align="center"> <a href="#">
   <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" ></a>
 <p align="center"> <a href="#">
   <a href="#bottom">
@@ -24,7 +24,7 @@
 <h1></h1>
 
 <!-- about me -->
-<a href="https://ariafatah0711.github.io/linktree/">
+<a href="https://s.id/ariafatah">
   <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large"></a>
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **ARIA FATAH ANOM**
@@ -88,7 +88,7 @@
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
-<a href="https://github.com/ariafatah0711/linktree"><img alt="Cute Count" src="https://count.getloli.com/get/@aria10?theme=rule34" /></a>
+<a href="#"><img alt="Cute Count" src="https://count.getloli.com/get/@aria10?theme=rule34" /></a>
 </details>
   
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
