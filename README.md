@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="#">
-  <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Belajar+ngoding+ada+disini!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
+  <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Student+Not+Progammer!;Aku+wibu+dan+suka+nonton+Anime.;butuh+temen+yang+sehobi+ada+dmn." alt="Text Gagal ditampilkan!"></a>
 </p><hr />
 
 <!--profil label -->
