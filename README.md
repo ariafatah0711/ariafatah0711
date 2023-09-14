@@ -93,7 +93,8 @@
 <a href="#"><img alt="Cute Count" src="https://count.getloli.com/get/@aria10?theme=rule34" /></a>
 </details>
   
-## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
+<!-- <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> -->
+## **Favourite Anime list:**
 
 <details close>
 <summary><b>Anime List</b></summary>
