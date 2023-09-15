@@ -67,7 +67,7 @@
 <img float="center" width="999" src="https://github-readme-stats.vercel.app/api?username=ariafatah0711&show_icons=true&locale=en" alt="ariafatah0711" />
 <br />
 &nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=ariafatah0711&" alt="ariafatah0711" />
-<br />
+<br /><br />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariafatah0711&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- decoration -->
