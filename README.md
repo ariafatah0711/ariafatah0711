@@ -85,7 +85,11 @@
 
 <p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" />
 
+<!--
 <p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
+-->
+
+<p><img align="center" src="https://github.com/ariafatah0711/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
 
 <details open>
 <summary><b>Cute visitor count</b></summary>
