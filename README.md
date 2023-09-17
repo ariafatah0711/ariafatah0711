@@ -85,12 +85,13 @@
 
 <p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" />
 
-
-<p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
-
 <!--
+<p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
 <p><img align="center" src="https://github.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake.svg" width="1000" />
+<p><img align="center" src="https://github.com/ariafatah0711/ariafatah0711/blob/output/github-contribution-grid-snake.gif" width="1000" height="200" style="object-size: cover;" />
 -->
+
+![snake gif](https://github.com/ariafatah0711/ariafatah0711/blob/output/github-contribution-grid-snake.gif)
 
 <details open>
 <summary><b>Cute visitor count</b></summary>
