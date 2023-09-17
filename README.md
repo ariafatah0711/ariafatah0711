@@ -87,9 +87,9 @@
 
 <p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake-dark.svg" width="1000" />
 
+<!--
 <p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake.svg" width="1000" />
 
-<!--
 ![snake gif](https://github.com/ariafatah0711/ariafatah0711/blob/output/github-contribution-grid-snake.gif)
 
 <p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
