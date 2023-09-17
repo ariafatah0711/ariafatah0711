@@ -85,13 +85,14 @@
 
 <p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" />
 
-<p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
-  
-![snake gif](https://github.com/ariafatah0711/ariafatah0711/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake-dark.svg" width="1000" />
 
 <!--
-<p><img align="center" src="https://github.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake.svg" width="1000" />
-<p><img align="center" src="https://github.com/ariafatah0711/ariafatah0711/blob/output/github-contribution-grid-snake.gif" width="1000" height="200" style="object-size: cover;" />
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake.svg" width="1000" />
+
+![snake gif](https://github.com/ariafatah0711/ariafatah0711/blob/output/github-contribution-grid-snake.gif)
+
+<p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
 -->
 
 <details open>
@@ -132,8 +133,12 @@
 * Donasi saya <a href="https://saweria.co/ariafatah0711">DISINI!</a>
 * daripada duitnya ga diipake mending donate kesini☕
 ------
-  
+
+<a href="https://saweria.co/ariafatah0711"><img src="./asset/Donate-Box-PNG.png" alt="donate banh" height="300" width="300"></a>
+
+<!--
 <a href="https://saweria.co/ariafatah0711"><img src="https://w7.pngwing.com/pngs/207/1009/png-transparent-donation-box-anime-saisen-otaku-it-otaku-television-mammal-brown.png" alt="donate banh" height="300" width="300"></a>
+-->
 
 ## **Date**
  - Selasa, 21 Februari 2023 19:41:31 
