@@ -38,6 +38,7 @@ I am a 17-year-old Front End Developer currently attending SMK Harapan Bangsa. I
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
 </p>
 
@@ -54,4 +55,6 @@ Let's connect and share knowledge in the world of web development!
   </samp>
 </p>
 
+<?--
 [![ariafatah0711 card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](#)
+-->
