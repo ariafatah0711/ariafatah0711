@@ -48,7 +48,7 @@
 <a href="https://wa.me/6289509221496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="aria_fatah" height="30" width="40" /></a>
 <a href="https://instagram.com/ariafatahanom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariafatahanom" height="30" width="40" /></a>
 <a href="https://fb.com/aria anom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aria anom" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/junior gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junior gaming" height="30" width="40" /></a>
+<a href="https://youtube.com/@juniorgaming8876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junior gaming" height="30" width="40" /></a>
 <a href="https://discord.gg/aria F. #8614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aria F. #8614" height="30" width="40" /></a>
 </p>
 
