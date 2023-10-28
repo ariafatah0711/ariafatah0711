@@ -139,17 +139,6 @@
 <a href="https://wa.me/6289509221496?text=Halo+Bang+Aria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="6289694295787" height="30" width="40" /></a>
 <a href="https://www.messenger.com/aria.anom.9"><img height="30" width="40" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667"></a>
 </p>
-  
-# **Donasi💎**
-* Donasi saya <a href="https://saweria.co/ariafatah0711">DISINI!</a>
-* daripada duitnya ga diipake mending donate kesini☕
-------
-
-<a href="https://saweria.co/ariafatah0711"><img src="./asset/Donate-Box-PNG.png" alt="donate banh" height="300" width="300"></a>
-
-<!--
-<a href="https://saweria.co/ariafatah0711"><img src="https://w7.pngwing.com/pngs/207/1009/png-transparent-donation-box-anime-saisen-otaku-it-otaku-television-mammal-brown.png" alt="donate banh" height="300" width="300"></a>
--->
 
 ## **Date**
  - Selasa, 21 Februari 2023 19:41:31 
