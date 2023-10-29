@@ -13,7 +13,12 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://github.com/ariafatah0711" target="_blank" style='margin-right:10px'>
+  <a href="https://github.com/ariafatah0711" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://github.com/ariafatah0711" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
