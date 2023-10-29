@@ -33,8 +33,8 @@
 I am a 17-year-old Front End Developer currently attending SMK Harapan Bangsa. I have been actively learning in the world of web development since January 2023. In addition to a strong understanding of various programming languages like HTML, CSS, JavaScript, and Python, I also have knowledge of networking and other skills.
 
 <p align="center"> <a href="#">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
