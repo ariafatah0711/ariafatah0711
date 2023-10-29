@@ -30,7 +30,7 @@
   </a>
 </p>
 
-I am a 17-year-old Front End Developer currently attending SMK Harapan Bangsa. I've been actively learning in the world of web development since January 2023. I have a good understanding of various programming languages, such as HTML, CSS, JavaScript, Python, and more.
+I am a 17-year-old Front End Developer currently attending SMK Harapan Bangsa. I have been actively learning in the world of web development since January 2023. In addition to a strong understanding of various programming languages like HTML, CSS, JavaScript, and Python, I also have knowledge of networking and other skills.
 
 <p align="center"> <a href="#">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -45,7 +45,7 @@ I am a 17-year-old Front End Developer currently attending SMK Harapan Bangsa. I
   </a>
 </p>
 
-Let's connect and share knowledge in the world of web development!
+Let's connect and collaborate to share knowledge in web development and networking.
 
 ---
 <p align="center"> 
