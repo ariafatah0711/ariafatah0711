@@ -1,4 +1,4 @@
-# Hi, I'm Aria Fatah
+# Hi, I'm Aria Fatah 👾 
 
 <div align="right">
   <a href="#">
@@ -30,8 +30,14 @@
   </a>
 </p>
 
-I am a 17 year old Front End Developer currently attending SMK Harapan Bangsa. I have been actively learning in the world of web development since January 2023. In addition to a strong understanding of various programming languages like HTML, CSS, JavaScript, and Python, I also have knowledge of networking and other skills.
 
+👋 **Halo! Saya Aria Fatah Anom**, seorang pelajar SMK Harapan Bangsa berusia 17 tahun yang memulai perjalanan di dunia IT sejak awal 2023. Awalnya, saya fokus pada pengembangan Front-End, tetapi seiring waktu, saya memperluas keahlian ke berbagai bidang, termasuk networking, security, DevOps, dan backend development.  
+
+💡 Saya memiliki minat besar dalam menciptakan solusi digital yang inovatif serta memberdayakan orang lain melalui teknologi. Dengan semangat belajar yang tinggi dan rasa ingin tahu yang besar, saya terus mengeksplorasi berbagai aspek teknologi dan bagaimana teknologi dapat memberikan dampak positif bagi masa depan.  
+
+📢 Mari terhubung dan berbagi ilmu untuk berkembang bersama! 🚀  
+
+## 🛠️ Teknologi & Keahlian  
 <p align="center"> <a href="#">
    <!-- Bahasa Pemrograman -->
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -70,7 +76,3 @@ Let's connect and collaborate to share knowledge in web development and networki
     <br>
   </samp>
 </p>
-
-<?--
-[![ariafatah0711 card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](#)
--->
