@@ -15,7 +15,7 @@
 <h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
 
 <a align="center" href="#">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="280"/>
+  <img src="./asset/2.gif" align="right" width="280"/>
 </a>
 
 <!-- <a href="#"> -->
@@ -39,7 +39,7 @@
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 <a align="center" href="#">
-  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="280"/>
+  <img src="./asset/3.gif" align="right" width="280"/>
 </a>
 
 <p align="center">Feel free to reach out or stalk me online 😎💌</p>
