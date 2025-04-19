@@ -1,76 +1,68 @@
-# Hi, I'm Aria Fatah
+<h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
 
-<div align="right">
-  <a href="#">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
+<a align="center" href="https://ariaf.my.id">
+  <img src="./asset/1.gif" align="right" width="300"/>
+</a>
 
-<p align="center">
-  <a href="https://ariaf.my.id">
-    <img width="100" src="./asset/logo.svg" alt="logo" />
-  </a>
-</p>
-
-<p align="center" style="margin: -20px 0 30px;">
-  <a href="https://github.com/ariafatah0711" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ariafatah" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ariaf.my.id" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/6289509221496" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="22px" width="22px" />
-  </a>
-</p>
-
-I am a 17 year old Front End Developer currently attending SMK Harapan Bangsa. I have been actively learning in the world of web development since January 2023. In addition to a strong understanding of various programming languages like HTML, CSS, JavaScript, and Python, I also have knowledge of networking and other skills.
-
-<p align="center"> <a href="#">
-   <!-- Bahasa Pemrograman -->
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <!-- Frameworks dan Libraries -->
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-    <!-- Tools dan Platform -->
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <!-- Networking dan DevOps -->
-    <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-    <img alt="MikroTik" src="https://img.shields.io/badge/-MikroTik-00A9E0?style=flat-square&logo=mikrotik&logoColor=white" />
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Podman" src="https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-    <!-- Sistem Operasi -->
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img alt="Red Hat" src="https://img.shields.io/badge/-Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white" />
-</p>
-
-Let's connect and collaborate to share knowledge in web development and networking.
+- **Name:** Aria Fatah  
+- **Gender:** her
+- **Hobbies:** Networking, WebDev, DevOps, CyberSec
+- **Favorite OS/Distro:** Windows, Arch Linux
+- **Loves:** Anime, Games, Music
+- **Waifu:** Makise Kurisu
+<!-- - **Working @:** - -->
 
 ---
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=ariafatah">「 Google Me 」</a>
-    <br>
-    「 I am a front-end web developer from <b>Indonesia</b> 」
-    <br>
-    <br>
-  </samp>
+<h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="300"/>
 </p>
 
-<?--
-[![ariafatah0711 card name](https://cardivo.vercel.app/api?name=ariafatah0711&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.pinimg.com/564x/81/71/b4/8171b49c8f3a6a1dbd9bb018a37d2d49.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](#)
--->
+<!-- - ### 🧁 Languages -->
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<!-- ### 🍡 Frontend Frameworks -->
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+<!-- ### 🍰 Backend & Tools -->
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+<!-- ### 🧋 DevOps Tools -->
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+<!-- ### 🌐 Networking -->
+- ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/-MikroTik-00A9E0?style=flat&logo=mikrotik&logoColor=white)
+<!-- ### ☁️ Deployment Platforms -->
+- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<!-- ### 🐧 Operating Systems -->
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/-Red_Hat-EE0000?style=flat&logo=red-hat&logoColor=white)
+---
+
+<h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/KXx0cCx.gif" width="250"/>
+</p>
+
+<p align="center">Feel free to reach out or stalk me online 😎💌</p>
+
+<p align="center">
+  <a href="https://ariaf.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20-%23ea4aaa?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />    
+  </a>
+  <a href="https://github.com/ariafatah0711" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ariafatah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ariaf.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/6289509221496" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp%20-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<!-- <p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/$-Support-ff69b4?style=for-the-badge" alt="Donate" />
+  </a>
+</p> -->
