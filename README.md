@@ -18,7 +18,7 @@
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="280"/>
 </a>
 
-<a href="#">
+<!-- <a href="#"> -->
 
 <!-- - ### 🧁 Languages -->
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -34,7 +34,7 @@
 - ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/-MikroTik-00A9E0?style=flat&logo=mikrotik&logoColor=white)
 <!-- ### 🐧 Operating Systems -->
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/-Red_Hat-EE0000?style=flat&logo=red-hat&logoColor=white)
-</a>
+<!-- </a> -->
 
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
