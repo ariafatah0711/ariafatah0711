@@ -1,7 +1,7 @@
 <h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
 
 <a align="center" href="https://ariaf.my.id">
-  <img src="./asset/1.gif" align="right" width="300"/>
+  <img src="./asset/1.gif" align="right" width="280"/>
 </a>
 
 - **Name:** Aria Fatah  
@@ -12,11 +12,10 @@
 - **Waifu:** Makise Kurisu
 <!-- - **Working @:** - -->
 
----
 <h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="300"/>
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="280"/>
 </p>
 
 <!-- - ### 🧁 Languages -->
@@ -27,42 +26,20 @@
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 <!-- ### 🧋 DevOps Tools -->
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-<!-- ### 🌐 Networking -->
-- ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/-MikroTik-00A9E0?style=flat&logo=mikrotik&logoColor=white)
 <!-- ### ☁️ Deployment Platforms -->
 - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<!-- ### 🌐 Networking -->
+- ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/-MikroTik-00A9E0?style=flat&logo=mikrotik&logoColor=white)
 <!-- ### 🐧 Operating Systems -->
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/-Red_Hat-EE0000?style=flat&logo=red-hat&logoColor=white)
----
 
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/KXx0cCx.gif" width="250"/>
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="280"/>
 </p>
 
 <p align="center">Feel free to reach out or stalk me online 😎💌</p>
 
-<p align="center">
-  <a href="https://ariaf.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20-%23ea4aaa?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />    
-  </a>
-  <a href="https://github.com/ariafatah0711" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ariafatah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ariaf.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/6289509221496" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp%20-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-<!-- <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/$-Support-ff69b4?style=for-the-badge" alt="Donate" />
-  </a>
-</p> -->
+- [![Link](https://img.shields.io/badge/Web%20-%23ea4aaa?style=for-the-badge&logo=firefox&logoColor=white)](https://ariaf.my.id) [![Link](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariafatah0711) [![Link](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariafatah) 
+- [![Link](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariaf.my.id) [![Link](https://img.shields.io/badge/WhatsApp%20-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289509221496)
