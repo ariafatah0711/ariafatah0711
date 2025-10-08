@@ -6,8 +6,8 @@
 
 - **Name:** Aria Fatah  
 - **Gender:** her
-- **Hobbies:** Networking, WebDev, DevOps, CyberSec
-- **Favorite OS/Distro:** Windows, Arch Linux
+- **Hobbies:** Networking, CyberSec, WebDev, DevOps
+- **Favorite OS/Distro:** Windows
 - **Loves:** Anime, Games, Music
 - **Waifu:** Makise Kurisu
 <!-- - **Working @:** - -->
@@ -22,6 +22,7 @@
 <!--
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 -->
 
 <!-- - ### 🧁 Languages -->
@@ -33,7 +34,7 @@
 <!-- ### 🧋 DevOps Tools -->
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 <!-- ### ☁️ Deployment Platforms -->
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 <!-- ### 🌐 Networking -->
 - ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/-MikroTik-00A9E0?style=flat&logo=mikrotik&logoColor=white)
 <!-- ### 🐧 Operating Systems -->
