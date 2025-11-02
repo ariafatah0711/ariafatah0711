@@ -9,7 +9,7 @@
 - **Hobbies:** Networking, CyberSec, WebDev, DevOps
 - **Favorite OS/Distro:** Windows
 - **Loves:** Anime, Games, Music
-- **Waifu:** Makise Kurisu
+- **Waifu:** Makise Kurisu, Kumiko Oumae
 <!-- - **Working @:** - -->
 
 <h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
