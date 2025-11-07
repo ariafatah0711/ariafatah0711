@@ -5,7 +5,7 @@
 </a>
 
 - **Name:** Aria Fatah  
-- **Gender:** her
+- **Gender:** him
 - **Hobbies:** Networking, CyberSec, WebDev, DevOps
 - **Favorite OS/Distro:** Windows
 - **Loves:** Anime, Games, Music
